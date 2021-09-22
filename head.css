@@ -1,0 +1,22 @@
+nav {
+  background-color: #fff;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-left {
+  display: inherit;
+  align-items: center;
+}
+nav input {
+  background: #eef3f7;
+  border-radius: 0.25rem;
+  width: 14.6875rem;
+  height: 2.125rem;
+  left: 4.5rem;
+  top: 0.75rem;
+  margin-left: 0.5rem;
+  border: 0;
+}
